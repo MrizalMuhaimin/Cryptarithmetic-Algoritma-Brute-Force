@@ -1,5 +1,5 @@
 # Penyelesaian Cryptarithmetic dengan Algoritma Brute Force
-![Tampilan Program](./Capture.png)
+![Tampilan Program](./Capture.PNG)
 
 ## Deskripsi
 Brute-force merupakan suatu jenis pendekatan penyelesaian masalah yang bersifat sederhana, jelas, dan juga langsung. Termasuk dalam persoalan cryptarithmetic dapat diselesaikan dengan menggunakan algoritma brute-force. Suatu solusi dari cryptarithmetic akan didapatkaan dengan mengiterasi setiap kemungkinan dari kombinasi huruf.
